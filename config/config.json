@@ -1,9 +1,12 @@
 {
-    "user": {
-        "token": ""
+    "sniper": {
+        "token": "",
+        "nitro_claim_sniper": "True"
     },
 
-    "webhook": {
-        "url": ""
+    "checker": {
+        "proxy_type": "http",
+        "nitro_claim_checker": "False",
+        "webhook_url": ""
     }
 }
